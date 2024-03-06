@@ -5,7 +5,7 @@ Correlation Analysis Project
 This project aims to provide a comprehensive exploration of correlation analysis techniques using the hsb2 dataset. It covers both parametric and non-parametric methods for assessing relationships between variables, including Pearson's correlation, Spearman's rank correlation, Kendall's tau, Gamma, and Canonical Correlation Analysis (CCA).
 
 Dataset
-The dataset used in this project is the hsb2 dataset, which is available at the following URL: "https://raw.githubusercontent.com/KenDaupsey/Multiple-Analysis-of-Variance-MANOVA-and-Multiple-Analysis-of-Covariance-MANCOVA-/main/hsb2%7Edata.csv"
+The dataset used in this project is the hsb2 dataset, which is available at the following URL: "https://raw.githubusercontent.com/KenDaupsey/-Correlation-analysis-Using-Python/main/hsb2%7Edata.csv"
 
 Techniques Covered
 Pearson's Correlation: A parametric measure of the linear relationship between two continuous variables.
